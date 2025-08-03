@@ -155,18 +155,6 @@ NODE_ENV=development
 ### Mobile App
 Environment variables are managed through Expo's configuration system.
 
----
-
-## 📱 Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/300x600/1DA1F2/FFFFFF?text=Home+Feed" alt="Home Feed" width="200" />
-  <img src="https://via.placeholder.com/300x600/1DA1F2/FFFFFF?text=Profile" alt="Profile" width="200" />
-  <img src="https://via.placeholder.com/300x600/1DA1F2/FFFFFF?text=Compose" alt="Compose Tweet" width="200" />
-</div>
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
